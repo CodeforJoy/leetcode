@@ -12,4 +12,10 @@ P104 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-
 
 ## DP 
 P198 [House Robber](https://leetcode.com/problems/house-robber/)  
-P213 [House Rober II](https://leetcode.com/problems/house-robber-ii/)
+P213 [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+
+## Binary Tree
+P144 [PreOrder Traverse](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
+P94  [InOrder Traverse](https://leetcode.com/problems/binary-tree-inorder-traversal/)  
+P145 [PostOrder Traverse](https://leetcode.com/problems/binary-tree-postorder-traversal/)  
+P102 [Level Order Traverse](https://leetcode.com/problems/binary-tree-level-order-traversal/)  
